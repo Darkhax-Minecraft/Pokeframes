@@ -1,0 +1,26 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:craft_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "BNC",
+    "PDP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "minecraft:yellow_dye",
+    "B": "minecraft:blue_dye",
+    "C": "minecraft:orange_dye",
+    "D": "minecraft:lime_dye"
+  },
+  "result": {
+    "id": "pokeframes:toy"
+  }
+}

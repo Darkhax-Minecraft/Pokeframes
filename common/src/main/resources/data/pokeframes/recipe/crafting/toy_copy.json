@@ -1,0 +1,24 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:copy_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "PNP",
+    "PPP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "pokeframes:toy"
+  },
+  "result": {
+    "id": "pokeframes:toy",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:craft_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "ANA",
+    "PAP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "minecraft:light_gray_wool"
+  },
+  "result": {
+    "id": "pokeframes:simple_light_gray"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "itemGroup.pokeframes.tab": "Pokeframes",
+
+  "tooltip.pokeframes.jei.desc": "Pokeframes are cosmetic items that modify the appearance of an item’s tooltip. To apply one, combine a Pokeframe and your item in a Smithing Table.",
+
+  "tooltip.pokeframes.id": "Frame ID: %s",
+  "tooltip.pokeframes.game.separator": " / ",
+  "tooltip.pokeframes.game.gen3": "Gen3",
+  "tooltip.pokeframes.game.ruby": "Ruby",
+  "tooltip.pokeframes.game.sapphire": "Sapphire",
+  "tooltip.pokeframes.game.emerald": "Emerald",
+  "tooltip.pokeframes.game.fire_red": "FireRed",
+  "tooltip.pokeframes.game.leaf_green": "LeafGreen",
+
+  "item.pokeframes.classic": "Classic Frame",
+  "tooltip.pokeframes.frame.classic.external": "Type1",
+
+  "item.pokeframes.simple_white": "Simple Frame - White",
+  "tooltip.pokeframes.frame.simple_white.external": "Type2",
+
+  "item.pokeframes.simple_orange": "Simple Frame - Orange",
+  "tooltip.pokeframes.frame.simple_orange.external": "Custom",
+
+  "item.pokeframes.simple_magenta": "Simple Frame - Magenta",
+  "tooltip.pokeframes.frame.simple_magenta.external": "Custom",
+
+  "item.pokeframes.simple_light_blue": "Simple Frame - Light Blue",
+  "tooltip.pokeframes.frame.simple_light_blue.external": "Custom",
+
+  "item.pokeframes.simple_yellow": "Simple Frame - Yellow",
+  "tooltip.pokeframes.frame.simple_yellow.external": "Custom",
+
+  "item.pokeframes.simple_lime": "Simple Frame - Lime",
+  "tooltip.pokeframes.frame.simple_lime.external": "Custom",
+
+  "item.pokeframes.simple_pink": "Simple Frame - Pink",
+  "tooltip.pokeframes.frame.simple_pink.external": "Custom",
+
+  "item.pokeframes.simple_gray": "Simple Frame - Gray",
+  "tooltip.pokeframes.frame.simple_gray.external": "Custom",
+
+  "item.pokeframes.simple_light_gray": "Simple Frame - Light Gray",
+  "tooltip.pokeframes.frame.simple_light_gray.external": "Custom",
+
+  "item.pokeframes.simple_cyan": "Simple Frame - Cyan",
+  "tooltip.pokeframes.frame.simple_cyan.external": "Custom",
+
+  "item.pokeframes.simple_purple": "Simple Frame - Purple",
+  "tooltip.pokeframes.frame.simple_purple.external": "Custom",
+
+  "item.pokeframes.simple_blue": "Simple Frame - Blue",
+  "tooltip.pokeframes.frame.simple_blue.external": "Custom",
+
+  "item.pokeframes.simple_brown": "Simple Frame - Brown",
+  "tooltip.pokeframes.frame.simple_brown.external": "Custom",
+
+  "item.pokeframes.simple_green": "Simple Frame - Green",
+  "tooltip.pokeframes.frame.simple_green.external": "Custom",
+
+  "item.pokeframes.simple_red": "Simple Frame - Red",
+  "tooltip.pokeframes.frame.simple_red.external": "Custom",
+
+  "item.pokeframes.simple_black": "Simple Frame - Black",
+  "tooltip.pokeframes.frame.simple_black.external": "Custom",
+
+  "item.pokeframes.pokeball": "Pokeball Frame",
+  "tooltip.pokeframes.frame.pokeball.external": "Type3",
+
+  "item.pokeframes.greatball": "Greatball Frame",
+  "tooltip.pokeframes.frame.greatball.external": "Custom",
+
+  "item.pokeframes.ultraball": "Ultraball Frame",
+  "tooltip.pokeframes.frame.ultraball.external": "Custom",
+
+  "item.pokeframes.masterball": "Masterball Frame",
+  "tooltip.pokeframes.frame.masterball.external": "Custom",
+
+  "item.pokeframes.pipe": "Pipe Frame",
+  "tooltip.pokeframes.frame.pipe.external": "Type4",
+
+  "item.pokeframes.toy": "Toy Frame",
+  "tooltip.pokeframes.frame.toy.external": "Type5",
+
+  "item.pokeframes.sea": "Sea Frame",
+  "tooltip.pokeframes.frame.sea.external": "Type6",
+
+  "item.pokeframes.ornate": "Ornate Frame",
+  "tooltip.pokeframes.frame.ornate.external": "Type7",
+
+  "item.pokeframes.flower": "Flower Frame",
+  "tooltip.pokeframes.frame.flower.external": "Type8",
+
+  "item.pokeframes.cloud": "Cloud Frame",
+  "tooltip.pokeframes.frame.cloud.external": "Type9",
+
+  "item.pokeframes.berry": "Berry Frame",
+  "tooltip.pokeframes.frame.berry.external": "Type10",
+
+  "item.pokeframes.coral": "Coral Frame",
+  "tooltip.pokeframes.frame.coral.external": "Type11",
+
+  "item.pokeframes.space": "Space Frame",
+  "tooltip.pokeframes.frame.space.external": "Type12",
+
+  "item.pokeframes.screw": "Screw Frame",
+  "tooltip.pokeframes.frame.screw.external": "Type13",
+
+  "item.pokeframes.desert": "Desert Frame",
+  "tooltip.pokeframes.frame.desert.external": "Type14",
+
+  "item.pokeframes.sheet": "Sheet Frame",
+  "tooltip.pokeframes.frame.sheet.external": "Type15",
+
+  "item.pokeframes.block": "Block Frame",
+  "tooltip.pokeframes.frame.block.external": "Type16",
+
+  "item.pokeframes.marble": "Marble Frame",
+  "tooltip.pokeframes.frame.marble.external": "Type17",
+
+  "item.pokeframes.picnic": "Picnic Frame",
+  "tooltip.pokeframes.frame.picnic.external": "Type18",
+
+  "item.pokeframes.leaf": "Leaf Frame",
+  "tooltip.pokeframes.frame.leaf.external": "Type19",
+
+  "item.pokeframes.ribbon": "Ribbon Frame",
+  "tooltip.pokeframes.frame.ribbon.external": "Type20",
+
+  "item.pokeframes.red": "Red Frame",
+  "tooltip.pokeframes.frame.red.external": "Type3",
+
+  "item.pokeframes.green": "Green Frame",
+  "tooltip.pokeframes.frame.green.external": "Type4",
+
+  "item.pokeframes.blue": "Blue Frame",
+  "tooltip.pokeframes.frame.blue.external": "Type5",
+
+  "item.pokeframes.gold": "Gold Frame",
+  "tooltip.pokeframes.frame.gold.external": "Type6",
+
+  "item.pokeframes.silver": "Silver Frame",
+  "tooltip.pokeframes.frame.silver.external": "Type7",
+
+  "item.pokeframes.checkerboard": "Checkerboard Frame",
+  "tooltip.pokeframes.frame.checkerboard.external": "Type8",
+
+  "item.pokeframes.banded_yellow": "Banded Frame - Yellow",
+  "tooltip.pokeframes.frame.banded_yellow.external": "Type9",
+
+  "item.pokeframes.bricks_purple": "Bricks Frame - Purple",
+  "tooltip.pokeframes.frame.bricks_purple.external": "Type10"
+}

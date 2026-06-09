@@ -1,0 +1,24 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:craft_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "BNB",
+    "PAP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "minecraft:tube_coral",
+    "B": "minecraft:brain_coral"
+  },
+  "result": {
+    "id": "pokeframes:coral"
+  }
+}

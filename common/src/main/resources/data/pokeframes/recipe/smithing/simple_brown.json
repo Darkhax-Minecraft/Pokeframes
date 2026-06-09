@@ -1,0 +1,11 @@
+{
+  "type": "bookshelf:smithing_components",
+  "base": {
+    "type": "bookshelf:any",
+    "fabric:type": "bookshelf:any"
+  },
+  "template": "pokeframes:simple_brown",
+  "components": {
+    "minecraft:tooltip_style": "pokeframes:simple_brown"
+  }
+}

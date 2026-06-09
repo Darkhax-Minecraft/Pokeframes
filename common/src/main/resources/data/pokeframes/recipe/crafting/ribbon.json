@@ -1,0 +1,24 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:craft_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "BNB",
+    "PAP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "minecraft:pink_wool",
+    "B": "minecraft:red_wool"
+  },
+  "result": {
+    "id": "pokeframes:ribbon"
+  }
+}

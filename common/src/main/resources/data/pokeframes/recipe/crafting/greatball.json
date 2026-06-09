@@ -1,0 +1,25 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:property",
+      "property": "pokeframes:craft_frames"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "BNB",
+    "PCP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "N": "minecraft:name_tag",
+    "A": "minecraft:blue_dye",
+    "B": "minecraft:red_dye",
+    "C": "minecraft:white_dye"
+  },
+  "result": {
+    "id": "pokeframes:greatball"
+  }
+}

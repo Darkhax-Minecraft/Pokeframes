@@ -1,0 +1,50 @@
+modLoader = "javafml"
+license = "All Rights Reserved"
+issueTrackerURL = "https://github.com/Darkhax-Minecraft/Pokeframes/issues"
+
+[[mods]]
+modId = "pokeframes"
+version = "26.1.2.0"
+displayName = "Pokeframes"
+updateJSONURL = "https://updates.blamejared.com/get?n=pokeframes&gv=26.1.2&ml=neoforge"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/pokeframes"
+logoFile = "logo_pokeframes.png"
+logoBlur = false
+credits = "This project is made possible with Patreon support from players like you. Thank you! lothrazar, techsquirrel, Keyana , Darkosto, Tobias Ward, noobanidus"
+authors = "Darkhax"
+description = "Customize items with new Pokemon inspired tooltips!"
+
+[[mixins]]
+config = "pokeframes.common.mixins.json"
+
+[[mixins]]
+config = "pokeframes.neoforge.mixins.json"
+
+[[dependencies.pokeframes]]
+modId = "minecraft"
+type = "required"
+versionRange = "26.1"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pokeframes]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.1.0.1-beta,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pokeframes]]
+modId = "bookshelf"
+type = "required"
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pokeframes]]
+modId = "prickle"
+type = "required"
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"
+
