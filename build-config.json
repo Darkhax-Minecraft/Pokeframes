@@ -26,9 +26,9 @@
         "id": "bookshelf"
       },
       "maven": {
-        "common": "net.darkhax.bookshelf:bookshelf-common-26.1.2:26.1.2.11",
-        "neoforge": "net.darkhax.bookshelf:bookshelf-neoforge-26.1.2:26.1.2.11",
-        "fabric": "net.darkhax.bookshelf:bookshelf-fabric-26.1.2:26.1.2.11"
+        "common": "net.darkhax.bookshelf:bookshelf-common-26.2:26.2.0.2",
+        "neoforge": "net.darkhax.bookshelf:bookshelf-neoforge-26.2:26.2.0.2",
+        "fabric": "net.darkhax.bookshelf:bookshelf-fabric-26.2:26.2.0.2"
       },
       "curseforge": {
         "slug": "bookshelf",
@@ -46,9 +46,9 @@
         "id": "prickle"
       },
       "maven": {
-        "common": "net.darkhax.pricklemc:prickle-common-26.1.2:26.1.2.4",
-        "neoforge": "net.darkhax.pricklemc:prickle-neoforge-26.1.2:26.1.2.4",
-        "fabric": "net.darkhax.pricklemc:prickle-fabric-26.1.2:26.1.2.4"
+        "common": "net.darkhax.pricklemc:prickle-common-26.2:26.2.0.2",
+        "neoforge": "net.darkhax.pricklemc:prickle-neoforge-26.2:26.2.0.2",
+        "fabric": "net.darkhax.pricklemc:prickle-fabric-26.2:26.2.0.2"
       },
       "curseforge": {
         "slug": "prickle",
@@ -57,15 +57,6 @@
       "modrinth": {
         "slug": "prickle",
         "id": "aaRl8GiW"
-      }
-    },
-    {
-      "name": "JEI",
-      "type": "misc",
-      "maven": {
-        "common": "mezz.jei:jei-26.1.2-fabric:29.6.2.31",
-        "neoforge": "mezz.jei:jei-26.1.2-neoforge:29.6.2.31",
-        "fabric": "mezz.jei:jei-26.1.2-fabric:29.6.2.31"
       }
     }
   ]
