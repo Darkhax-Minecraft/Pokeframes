@@ -1,5 +1,5 @@
 <!-- name-start -->
-# Pokeframes [![CurseForge Project](https://img.shields.io/curseforge/dt/1566983?logo=curseforge&label=CurseForge&style=flat-square&labelColor=2D2D2D&color=555555)](https://www.curseforge.com/minecraft/mc-mods/pokeframes) [![Modrinth Project](https://img.shields.io/modrinth/dt/6uWKuN5R?logo=modrinth&label=Modrinth&style=flat-square&labelColor=2D2D2D&color=555555)](https://modrinth.com/mod/pokeframes) [![Maven Project](https://img.shields.io/maven-metadata/v?style=flat-square&logoColor=D31A38&labelColor=2D2D2D&color=555555&label=Latest&logo=gradle&metadataUrl=https%3A%2F%2Fmaven.blamejared.com%2Fnet%2Fdarkhax%2Fpokeframes%2Fpokeframes-common-26.2%2Fmaven-metadata.xml)](https://maven.blamejared.com/net/darkhax/pokeframes)
+# Pokeframes [![CurseForge Project](https://img.shields.io/curseforge/dt/1566983?logo=curseforge&label=CurseForge&style=flat-square&labelColor=2D2D2D&color=555555)](https://www.curseforge.com/minecraft/mc-mods/pokeframes) [![Modrinth Project](https://img.shields.io/modrinth/dt/6uWKuN5R?logo=modrinth&label=Modrinth&style=flat-square&labelColor=2D2D2D&color=555555)](https://modrinth.com/mod/pokeframes) [![Maven Project](https://img.shields.io/maven-metadata/v?style=flat-square&logoColor=D31A38&labelColor=2D2D2D&color=555555&label=Latest&logo=gradle&metadataUrl=https%3A%2F%2Fmaven.blamejared.com%2Fnet%2Fdarkhax%2Fpokeframes%2Fpokeframes-common-26.3%2Fmaven-metadata.xml)](https://maven.blamejared.com/net/darkhax/pokeframes)
 <!-- name-end -->
 
 <!-- description-start -->
@@ -22,11 +22,11 @@ repositories {
 
 dependencies {
      // NeoForge
-     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-neoforge-26.2', version: '26.2.0.0'
+     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-neoforge-26.3', version: '26.3.0.0'
      // Fabric
-     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-fabric-26.2', version: '26.2.0.0'
+     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-fabric-26.3', version: '26.3.0.0'
      // Common / MultiLoader / Vanilla / No Loader
-     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-common-26.2', version: '26.2.0.0'
+     implementation group: 'net.darkhax.pokeframes', name: 'pokeframes-common-26.3', version: '26.3.0.0'
 }
 ```
 
